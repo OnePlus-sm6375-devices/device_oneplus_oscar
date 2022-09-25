@@ -21,4 +21,4 @@
 
 ## Device Picture
 
-![OnePlus Nord CE2 Lite 5G](https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-nord-ce-2-lite-5g-2.jpg"OnePlus Nord CE2 Lite 5G")
+![OnePlus Nord CE2 Lite 5G](https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-nord-ce-2-lite-5g-2.jpg "OnePlus Nord CE2 Lite 5G")
