@@ -1,0 +1,13 @@
+//
+// Copyright (C) 2021 The LineageOS Project
+//
+// SPDX-License-Identifier: Apache-2.0
+//
+
+cc_library_static {
+    name: "init_oneplus_oscar",
+    srcs: ["init_oneplus_oscar.cpp"],
+    whole_static_libs: ["//device/oneplus/sm6375-common:libinit_oneplus_holi"],
+    include_dirs: ["system/core/init"],
+    recovery_available: true,
+}
