@@ -12,6 +12,7 @@ include device/oneplus/sm6375-common/BoardConfigCommon.mk
 # Build Broken
 BUILD_BROKEN_DUP_RULES := true
 BUILD_BROKEN_ELF_PREBUILT_PRODUCT_COPY_FILES := true
+BUILD_BROKEN_VENDOR_PROPERTY_NAMESPACE := true
 
 # Display
 TARGET_SCREEN_DENSITY := 440
