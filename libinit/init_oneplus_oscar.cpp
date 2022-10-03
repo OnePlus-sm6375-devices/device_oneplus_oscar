@@ -23,7 +23,7 @@ static const variant_info_t oscar_info = {
 
 static const variant_info_t oscar_eu_info = {
     .hwc_value = "EU",
-    .model_value = "S88006AA1",
+    .model_value = "OP535DL1",
 
     .brand = "OnePlus",
     .device = "oscar",
